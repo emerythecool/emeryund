@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-09-06T00:00:00.000Z",
+  "totals": {
+    "games": 3,
+    "visits": 4242031,
+    "playing": 51,
+    "favorites": 113953
+  },
+  "games": {
+    "undertale": {
+      "visits": 1703314,
+      "playing": 49,
+      "favorites": 6681,
+      "thumbnail": "https://tr.rbxcdn.com/180DAY-a05b3e323c386fcf4fb2e2ba6deccb1a/768/432/Image/Png/noFilter"
+    },
+    "snail": {
+      "visits": 2519733,
+      "playing": 2,
+      "favorites": 107226,
+      "thumbnail": "https://tr.rbxcdn.com/180DAY-6a83c0be982d05672966470f269ad0cb/768/432/Image/Png/noFilter"
+    },
+    "speedrace": {
+      "visits": 18984,
+      "playing": 0,
+      "favorites": 46,
+      "thumbnail": "https://tr.rbxcdn.com/180DAY-8b77dbb372a6de3aad8b04d1c9657c42/768/432/Image/Png/noFilter"
+    },
+    "contribution": {
+      "visits": 2290271,
+      "playing": 276,
+      "favorites": 321687,
+      "thumbnail": "https://tr.rbxcdn.com/180DAY-6ba338e4718e1f8e94a849dbc71111a1/768/432/Image/Png/noFilter"
+    }
+  }
+}
